@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "Redux",
+      "status": "false",
+      "id": 6
+    },
+    {
+      "title": "React",
+      "status": "false",
+      "id": 7
+    }
+  ]
+}
